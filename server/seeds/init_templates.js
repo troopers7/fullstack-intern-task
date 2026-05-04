@@ -20,7 +20,7 @@ exports.seed = async function(knex) {
       id: 3, 
       name: 'Creative Portfolio', 
       description: 'Showcase your work with this creative and elegant portfolio template.', 
-      thumbnail_url: 'https://images.unsplash.com/photo-1507238692062-5a04220b3a36?q=80&w=2070&auto=format&fit=crop', 
+      thumbnail_url: 'https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=2072&auto=format&fit=crop', 
       category: 'Portfolio'
     },
     {
